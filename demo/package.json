@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "astro": "^1.5.2",
-    "astro-netlify-cms": "file:../"
+    "astro-netlify-cms": "^0.5.3"
   }
 }

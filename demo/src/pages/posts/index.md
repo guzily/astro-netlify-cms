@@ -10,7 +10,6 @@ authorURL: https://github.com/natemoo-re
 value: 128
 description: Just a Hello World Post!
 ---
-
 <Author name="Nate Moore" href="https://twitter.com/n_moore" />
 
 This is so cool!
